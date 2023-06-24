@@ -1,5 +1,5 @@
 const SelectLanguage = () => {
-  return <div></div>;
+  return <div>Languege</div>;
 };
 
 export { SelectLanguage };
